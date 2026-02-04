@@ -5,7 +5,7 @@ compatibility_date = "2024-01-01"
 # KV Namespace for storing vault data
 [[kv_namespaces]]
 binding = "VAULT"
-id = "d6f8eca50b334e8f9275758dfe800254"
+id = "a316aede1caf40d0a62870fe25b791e0"
 
 # R2 Bucket for storing attachments
 [[r2_buckets]]
